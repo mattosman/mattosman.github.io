@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: (<i>under construction</i>) # <i><br>"When we try to pick out anything by itself, we find it hitched to everything else in the Universe."</i> <br><sup> - John Muir, My First Summer in the Sierra, 1911 </sup><br>
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 4
+# display_categories: [work, fun]
 horizontal: false
 ---
 

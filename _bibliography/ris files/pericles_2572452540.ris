@@ -1,0 +1,27 @@
+
+TY  - JOUR
+T1  - Bayesian Calibration for the Arctic Sea Ice Biomarker IP25
+AU  - Fu, C. Y.
+AU  - Osman, M. B.
+AU  - Aquino-López, M. A.
+Y1  - 2025/03/01
+PY  - 2025
+DA  - 2025/03/01
+DO  - https://doi.org/10.1029/2024PA005048
+T2  - Paleoceanography and Paleoclimatology
+JF  - Paleoceanography and Paleoclimatology
+JO  - Paleoceanography and Paleoclimatology
+JA  - Paleoceanogr Paleoclimatol
+SP  - e2024PA005048
+VL  - 40
+IS  - 3
+KW  - sea ice
+KW  - Arctic
+KW  - IP25
+KW  - Bayesian statistics
+KW  - paleoclimate
+PB  - John Wiley & Sons, Ltd
+UR  - https://doi.org/10.1029/2024PA005048
+Y2  - 2025/04/28
+N2  - Abstract Sea ice plays multiple important roles in regulating the global climate. Rapid sea ice loss in the Arctic has been documented over recent decades, yet our understanding of long-term sea ice variability and its feedbacks remains limited by a lack of quantitative sea ice reconstructions. The sea ice diatom-derived biomarker IP25 ${\text{IP}}_{25}$ has been combined with sterols produced by open-water phytoplankton in the PIP25 ${\text{PIP}}_{25}$ index as a sea ice proxy to achieve semi-quantitative reconstructions. Here, we analyze a compilation of over 600 published core-top measurements of IP25 ${\text{IP}}_{25}$ paired with brassicasterol and/or dinosterol across (sub-)Arctic oceans to calculate a newln(PIP25 ${\text{PIP}}_{25}$) index that correlates nonlinearly with sea ice concentration. Leveraging sediment trap and sea ice observational studies, we develop a spatially varying Bayesian calibration (BaySIC) for ln(PIP25 ${\text{PIP}}_{25}$) to account for its non-stationary relationship with sea ice concentration and other environmental drivers (e.g., sea surface salinity). The model is fully invertible, allowing probabilistic forward modeling of the ln(PIP25 ${\text{PIP}}_{25}$) index as well as inverse modeling of past sea ice concentration with bi-directional uncertainty quantification. BaySIC facilitates direct proxy-model comparisons and palaeoclimate data assimilation, providing the polar proxy constraints currently missing in climate model simulations and enabling, for the first time, fully quantitative Arctic sea ice reconstructions.
+ER  - 

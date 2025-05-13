@@ -1,0 +1,234 @@
+- name: Matt Osman
+  degrees: # PhD
+  image: people/matt.jpg
+  altimage:
+  position: Principal Investigator
+  email: mo549 (at) cam.ac.uk
+  twitter:
+  website: https://www.geog.cam.ac.uk/people/osman/
+  github: mattosman
+  scholar: BkRV_TIAAAAJ&hl
+  orcid:
+  description:  |
+    I’m interested in Earth's climate system: how it operates, changes, interacts,
+    and dissociates through time. This system is both fascinating and complex ... but
+    understanding its vitality and stability is also crucial to sustaining
+    life as we know it.
+
+    I help run [**C3PO**](/about_c3po/) by mobilising talented and creative individuals ---
+    those listed below --- to tackle "big picture" science problems. We focus on interesting
+    and relevant questions that have potential to improve understanding of Earth’s climate
+    changes across time and spatial scales.
+
+    You can find plenty of [**about me**](/) elsewhere on this site.
+
+- name: Witek Bagniewski
+  degrees: PhD
+  image: people/witek.jpg
+  altimage:
+  position: Research Associate
+  email: wb350 (at) cam.ac.uk
+  twitter:
+  website: https://bagniewski.github.io/
+  github:
+  scholar: 4g_nU8wAAAAJ&hl
+  orcid:
+  description:  |
+    I’m a postdoctoral researcher in the Department of Geography, Cambridge,
+    working in collaboration with Downing College and the [**Cambridge Centre
+    for Climate Repair**](https://www.climaterepair.cam.ac.uk/){:target="\_blank"}. I am
+    interested in abrupt climate transitions and feedback processes that either amplify or
+    diminish climate change and its impacts. My current aim is to reconstruct past changes
+    in the global carbon cycle by combining earth system model simulations with climate proxy
+    records from across the globe.
+
+    I completed my undergraduate studies in Geosciences and Astrophysics at Jacobs University Bremen,
+    followed by an MSc in Oceanography at the University of Maine and a PhD in Climate Science at
+    the University of New South Wales. I then undertook a postdoc position at the École Normale
+    Supérieure – PSL before joining the University of Cambridge in 2024.
+
+
+
+- name: Sizhe Chen
+  degrees:
+  image: people/sizhe3.jpg
+  altimage:
+  position: PhD student
+  email: sc2348 (at) cam.ac.uk
+  twitter:
+  website: https://www.geog.cam.ac.uk/people/chen/
+  github:
+  scholar:
+  orcid:
+  description:  |
+    I am a PhD student in the Department of Geography, where I'm affiliated with the [**Cambridge Centre
+    for Climate Repair**](https://www.climaterepair.cam.ac.uk/){:target="\_blank"}. My PhD focuses
+    on developing physically consistent and dynamically verifiable reconstructions of the Atlantic
+    Meridional Overturning Circulation (i.e., AMOC) that allow for direct comparison with
+    observations.  My research draws on large-ensemble climate model output, global compilations
+    of proxy records, and advanced statistical techniques. Using these tools, I investigate
+    past AMOC variability and its interactions with other components of the climate system
+    within and beyond the North Atlantic.  I am broadly interested in the coupled behaviour
+    of the ocean, atmosphere, and cryosphere; studying any one element in isolation risks
+    overlooking the feedbacks of the climate system as a whole.
+
+    Before coming to Cambridge, I received my B.S. in Atmospheric Sciences
+    in China, where I investigated how state-of-the-art climate models simulate the
+    behaviour of Asian summer monsoon. When I am not coding or pouring over climate
+    data, I perform as the lead vocalist and guitarist of a Cambridge-based
+    rock band and row with a local club on the River Cam.
+
+
+- name: Crystal Fu
+  degrees: # MRes
+  image: people/crystal3.jpg
+  altimage:
+  position: PhD student
+  email: cyf25 (at) cam.ac.uk
+  twitter: # @CrystalCYFu
+  website: https://www.geog.cam.ac.uk/people/fu/
+  github: CrystalCYFu
+  scholar:
+  orcid:
+  description:  |
+    I'm a PhD student in the Department of Geography and Scott Polar Research Institute
+    ([**SPRI**](https://www.spri.cam.ac.uk/){:target="\_blank"}),
+    researching Arctic sea ice sensitivity – how responsive the ice cover is to changes in forcings,
+    particularly in light of its recent rapid decline. My work integrates geological records with
+    climate models to investigate  long-term variations in Arctic sea ice, especially during past warm periods,
+    in order to  better understand feedback processes and improve future climate projections. When I’m not
+    puzzling over our complex planet, you'll usually find me outdoors looking for cool rocks and/or cute cats.
+
+
+- name: Claudia Offner
+  degrees: # MRes
+  image: people/claudia.jpg
+  altimage:
+  position: PhD student
+  email: ccfo2 (at) cam.ac.uk
+  twitter:
+  website: https://www.geog.cam.ac.uk/people/offner/
+  github: Claudia-Offner
+  scholar:
+  orcid:
+  description:  |
+    I am a data scientist specialised in Geographic Information Systems (GIS) and my
+    research focuses on climate change, extreme weather and public health. Working as
+    a Research Assistant in the nutrition group of the London School of Hygiene and Tropical
+    Medicine, I developed a keen interest in bridging gaps in methods and data between climate- and
+    health-related disciplines. This led me to pursue a PhD with the University of Cambridge
+    Geography Department, where I am supervised by a diverse team of supervisors from
+    the British Antarctic Survey, Judge Business School and Met Office. My thesis aims to
+    provide early warning predictions of extreme weather impacts on health care in the UK and India.
+    In my spare time, I volunteer with MapAction to provide cartographic expertise for disaster
+    response. When I am not travelling, I enjoy reading, cooking and exercising.
+
+
+- name: Peisong Zheng
+  degrees: # MRes
+  image: people/peisong2.png
+  altimage:
+  position: PhD student
+  email: pz285 (at) cam.ac.uk
+  twitter:
+  website: https://www.geog.cam.ac.uk/people/zheng/
+  github: Peisong-Zheng
+  scholar: z0OeIJYAAAAJ&hl
+  orcid:
+  description:  |
+    I am a PhD student on the AI for the Study of Environmental Risks ([**AI4ER**](https://ai4er-cdt.esc.cam.ac.uk/){:target="\_blank"})
+    programme, jointly based at the British Antarctic Survey and the Department of Geography (Cambridge).
+    I am particularly interested in applying AI and machine‑learning methods to reconstructed
+    and modelled climate data to uncover climate dynamics. My doctoral project develops
+    causal models to untangle the mechanisms behind major ice age climate reorganisations ---
+    for example, the last deglaciation and Dansgaard–Oeschger events --- by combining palaeoclimate
+    records with machine‑learning‑based causal inference. My work aims to clarify how past
+    changes in ocean circulation, atmospheric CO₂ and ice‑sheet dynamics interacted, ultimately
+    improving our ability to anticipate future abrupt climate change.
+
+    Before starting my PhD, I earned an MRes with distinction in Environmental Data Science
+    at the University of Cambridge, where I used Gaussian Mixture Models to map Arctic
+    Ocean water masses beneath sea ice and helped build a deep‑learning pipeline to predict
+    hurricane damage to buildings. Earlier, I worked as a research assistant at Shantou University and
+    completed an MSc in Geography and a BSc in Geophysics at the China University of Geosciences.
+    My PhD is funded by a UKRI studentship.
+
+- name: Yu Huang
+  degrees: # MRes
+  image: people/yu.jpg
+  altimage:
+  position: MPhil student
+  email: yh475 (at) cam.ac.uk
+  twitter:
+  website:
+  github:
+  scholar:
+  orcid:
+  description:  |
+    I engage with palaeoclimate questions as a lens through which to interrogate
+    the human past and our potential future. I enjoy thinking across marine, terrestrial
+    and ice core archives. During my undergraduate studies in Geography, I worked on a
+    'sortable silt' flow speed reconstruction of the Norwegian Sea during the last
+    deglaciation. I was then awarded an EFG scholarship (King's College) to pursue
+    an MPhil in ([**Quantitative Climate and Environmental Science**](https://qces.uk/){:target="\_blank"}), where I am researching
+    Asian monsoon dynamics during the last interglacial period using isotope-enabled Earth
+    System Models. My PhD research (starting 2025) will use Antarctic and Greenland ice
+    cores to constrain the interglacial evolution of methane, exploring the role of
+    ancient agriculture in changing global environments.
+
+    In my free time, I paint watercolour landscapes of the places I visit during fieldwork.
+
+- name: Emily Kraus
+  degrees:
+  image: people/emily2.jpg
+  altimage:
+  position: MRes student
+  email: enk21 (at) cam.ac.uk
+  twitter:
+  website:
+  github:
+  scholar: w8B65b4AAAAJ&hl
+  orcid:
+  description:  |
+    I am an MRes student and ([**Gates Cambridge Scholar**](https://www.gatescambridge.org/){:target="\_blank"})
+    in the Department of Geography here at Cambridge, where my research
+    focuses on reconstructing and understanding the Marine Isotope Stage 11 (MIS11) "super-interglacial"
+    using climate proxies and models. More broadly, however, I am interested in understanding the fundamental
+    differences between past periods of global-scale warming, and in reducing model uncertainties in predicting
+    the impacts of anthropogenic climate change using evidence from the past.
+
+    Growing up just outside New Orleans, I developed an appreciation for the
+    urgency of climate change, which led me to pursue a B.S. in Environmental Earth Science
+    with a minor in Marine Biology at Tulane University. I feel fortunate to be here in Cambridge,
+    and to have discovered my passion for using clues from the past to better understand our planet’s future.
+    When I’m not thinking about MIS11, you can usually find me watching an episode of Parts Unknown,
+    listening to Ethiopian jazz, or spending time outdoors with friends.
+
+
+- name: Fiona Fang
+  degrees:
+  image: people/fiona2.jpg
+  altimage:
+  position: UG student
+  email: zf276 (at) cam.ac.uk
+  twitter:
+  website:
+  github: fionazfang
+  scholar:
+  orcid:
+  description:  |
+    I’m a geography undergraduate at the University of Cambridge with a strong passion
+    for climate science and numerical modeling. My current research focuses on modeling and
+    data assimilation to investigate ice–climate coupling during abrupt climate transitions.
+    My interest in climate dynamics began in secondary school when I was captivated by
+    Richard Alley’s The Two-Mile Time Machine, but it was during my first-year here at Cambridge,
+    learning about energy balance dynamics, that I confirmed climate modeling was what I wanted
+    to pursue. Since then, I’ve been developing my own climate models both within and beyond coursework.
+
+    I am particularly fascinated by feedbacks and couplings in the Earth system, especially
+    during past abrupt events such as Dansgaard–Oeschger and Heinrich events. These rapid
+    transitions are critical for understanding future climate thresholds; I'm interested in
+    understanding their mechanisms through physically grounded models and comparison with proxy data.
+    Outside of academics, I enjoy stargazing, hiking, and sunbathing with my two cats.
+
+# [**The Two-Mile Time Machine**](https://www.jstor.org/stable/j.ctt6wq1f8){:target="\_blank"}
