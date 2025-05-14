@@ -116,5 +116,5 @@ Department of Geography, University of Cambridge <br>
 </p>
 
 <p style="text-align: center; color: #777; font-size: 0.75rem; margin-top: 50px;">
-<sup>**</sup> Time series data are the famous LR04 "benthic stack", taken from: Lisiecki, L. E., and M. E. Raymo (2005), A Pliocene-Pleistocene stack of 57 globally distributed benthic δ18O records, <i>Paleoceanography</i>, <b>20</b>, PA1003, doi:10.1029/2004PA001071.
+<sup>**</sup> Time series taken from: Lisiecki, L. E., and M. E. Raymo (2005), A Pliocene-Pleistocene stack of 57 globally distributed benthic δ18O records, <i>Paleoceanography</i>, <b>20</b>, PA1003, doi:10.1029/2004PA001071.
 </p>
