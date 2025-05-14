@@ -17,18 +17,17 @@ hide_title: true
 
 Welcome! We are the Cambridge Computational Climatology and Paleoceanography (**C3PO** <img src='/assets/img/c3po.png' style='height: 20px; vertical-align: middle;'><sup>*</sup>) group at the University of Cambridge.
 
-**Our research explores the mechanisms and magnitude of past, present, and future climate change across timescales.**  Our work spans sub-seasonal to millennial time intervals, and spatial scales ranging from local to global. We integrate diverse climate "observations" -- spanning sparsely situated paleo-proxies up to modern satellite data -- with mathematical models to better understand Earth’s climate system in statistically sound, mechanistically grounded ways.
+**Our research explores the mechanisms and magnitude of past, present, and future climate change.**  Our work spans sub-seasonal to millennial time intervals, and spatial scales ranging from global down to local. We integrate diverse climate "observations" -- measurements ranging from sparsely situated paleo-proxies up to modern satellite data -- with mathematical tools to better understand Earth’s climate system in statistically sound, mechanistically grounded ways.
 
-**A central aim of our group is to quantitatively leverage past climate changes to both contexualise modern observations and constrain future projections.** We specialise in bridging climate proxies with global climate model simulations; in applying and developing paleoclimate data assimilation techniques; in building proxy system and dynamical time series models; and in deciphering climate feedbacks through paired analysis of models and observations.
+**A central aim of our group is to quantitatively leverage past climate changes to contexualise modern observations and constrain future projections.** We specialise in bridging climate proxies and global climate model simulations; in applying and developing paleoclimate data assimilation techniques; in building statistical models; and in deciphering climate feedbacks through models and observations.
 
 Some of our ongoing research themes include:
-- *Past global change via paleoclimate data assimilation* (e.g., Mid-Pliocene Warm Period, Last Interglacial, Last Glacial Maximum, Holocene, Marine Isotope Stage 11)
+- *Past global temperature reconstruction* (e.g., Mid-Pliocene Warm Period, Last Interglacial, Last Glacial Maximum, Holocene, Marine Isotope Stage 11)
 - *Polar change and proxy system development* (e.g., sea ice dynamics, ocean circulation, ice-ocean-atmosphere coupling)
 - *Cryosphere–climate coupling* (e.g., ice sheet sensitivity, coastal Greenland ice changes)
-- *Statistical model development* (e.g., climate causal inference, dynamical time series modelling)
+- *Statistical model development* (e.g., causal inference, age-depth modelling, dynamical time series modelling)
 
-
-We collaborate frequently with researchers across Cambridge and internationally, including through the British Antarctic Survey and the (forthcoming) CMIP7 Paleoclimate Modelling Intercomparison Project.
+We're fortunate to collaborate frequently with researchers from across Cambridge and internationally, including through the British Antarctic Survey and the (forthcoming) CMIP7 Paleoclimate Modelling Intercomparison Project.
 
 ---
 
