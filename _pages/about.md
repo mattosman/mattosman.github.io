@@ -27,7 +27,7 @@ latest_posts:
   limit: 4 # leave blank to include all the blog posts
 ---
 
-I am an Assistant Professor at the <b>[University of Cambridge](https://www.cam.ac.uk/){:target="\_blank"}</b>, where I run the <i>Cambridge Computational Climatology and Paleoceanography</i> lab (<b>[C3PO]({{ '/about_c3po/' | prepend: site.baseurl | prepend: site.url }})</b>).  
+I am an Assistant Professor at the <b>[University of Cambridge](https://www.cam.ac.uk/){:target="\_blank"}</b>, where I run the [<i>Cambridge Computational Climatology and Paleoceanography</i>]({{ '/about_c3po/' | prepend: site.baseurl | prepend: site.url }}) lab (<b>[C3PO]({{ '/about_c3po/' | prepend: site.baseurl | prepend: site.url }})</b>).  
 
 My work seeks to understand how and why Earth’s climate changes across seasonal- to millennial-timescales.  I study the past to better understand our climatic future.  
 <!-- I am fascinated by the intersection of climate across human and ecologic dimensions, during the past and into the present. -->
