@@ -29,7 +29,7 @@ latest_posts:
 
 I am an Assistant Professor at the <b>[University of Cambridge](https://www.cam.ac.uk/){:target="\_blank"}</b>, where I run the <i>Cambridge Computational Climatology and Paleoceanography</i> lab (<b>[C3PO]({{ '/about_c3po/' | prepend: site.baseurl | prepend: site.url }})</b>).  
 
-My work seeks to understand how and why Earth’s climate changes across seasonal- to millennial-timescales.  <i>I study the past to better understand our climatic future</i>.  
+My work seeks to understand how and why Earth’s climate changes across seasonal- to millennial-timescales.  I study the past to better understand our climatic future.  
 <!-- I am fascinated by the intersection of climate across human and ecologic dimensions, during the past and into the present. -->
 
 One major theme of my work has been developing new quantitative approaches to understand climate dynamics using naturally derived "proxies".  I aim for a holistic approach by combining proxies with modern observations, statistical models, and climate simulations.
