@@ -85,5 +85,20 @@ nav_order: 7
   </p>
 </div>
 
+<div style="margin-top: 1.5em; margin-bottom: 1.2em;">
+  <p>
+    <strong>Yu Huang</strong><br>
+    <em>previously:</em> Cambridge QCES MPhil <br>
+    <em>now:</em> Gates Cambridge PhD student, BAS & Cambridge <br>
+  </p>
+</div>
+
+<div style="margin-top: 1.5em; margin-bottom: 1.2em;">
+  <p>
+    <strong>Emily Kraus</strong><br>
+    <em>previously:</em> Gates Cambridge MPhil student <br>
+    <em>now:</em> C3PO Research Assistant! <br>
+  </p>
+</div>
 
 </div>

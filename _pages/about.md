@@ -19,12 +19,12 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 4 # leave blank to include all the news in the `_news` folder
+  limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 4 # leave blank to include all the blog posts
+  limit: 5 # leave blank to include all the blog posts
 ---
 
 I am an Assistant Professor at the <b>[University of Cambridge](https://www.cam.ac.uk/){:target="\_blank"}</b>, where I run the [<i>Cambridge Computational Climatology and Paleoceanography</i>]({{ '/about_c3po/' | prepend: site.baseurl | prepend: site.url }}) lab (<b>[C3PO]({{ '/about_c3po/' | prepend: site.baseurl | prepend: site.url }})</b>).  

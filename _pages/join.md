@@ -16,7 +16,7 @@ We are **always** excited to hear from prospective students, postdoctoral resear
 
 Diversity of backgrounds, perspectives, and experiences strengthens our science, and we especially need *everyone’s* unique insights to address the climate crisis.  We are thus strongly committed to maintaining a supportive, collaborative, and inclusive environment.  C3PO welcomes applicants from all races, ethnicities, religions, nationalities, genders, identities, ages, affiliations, orientations, and/or disability statuses.
 
-If you are passionate about using quantitative methods to understand the climate system —-- past, present, and future —-- please get in touch to schedule a meeting to discuss aligned aims.
+If you are passionate about using quantitative methods to understand the climate system —-- past, present, and (or) future —-- please get in touch to schedule a meeting to discuss aligned aims.
 
 <p float="center">
   <!-- <img src="/assets/img/lr04/0-1_lr04.png" width="700" /> -->
@@ -44,6 +44,8 @@ Prospective students are encouraged to get in contact well in advance of these d
 </p>
 
 ## Postdocs
+
+**(October 2025) INTERESTED POSTDOCS:** Please check back soon for a funding update.
 
 We currently do not have any advertised positions (though please check back in the coming months).  However, we are always happy to discuss postdoctoral opportunities with motivated researchers who have strong backgrounds in climate science, statistical / data science, or related fields.
 

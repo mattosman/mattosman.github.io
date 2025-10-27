@@ -48,6 +48,32 @@
     Supérieure – PSL before joining the University of Cambridge in 2024.
 
 
+- name: Emily Kraus
+  degrees:
+  image: people/emily2.jpg
+  altimage:
+  position: Research Assistant
+  email: enk21 (at) cam.ac.uk
+  twitter:
+  website:
+  github:
+  scholar: w8B65b4AAAAJ&hl
+  orcid:
+  description:  |
+    I am a Research Assistant and recent [**Gates Cambridge**](https://www.gatescambridge.org/){:target="\_blank"} alumni
+    working in the Department of Geography here at Cambridge, where my research
+    focuses on reconstructing and understanding the Marine Isotope Stage 11 (MIS11) "super-interglacial"
+    using climate proxies and models. More broadly, however, I am interested in understanding the fundamental
+    differences between past periods of global-scale warming, and in reducing model uncertainties in predicting
+    the impacts of anthropogenic climate change using evidence from the past.
+
+    Growing up just outside New Orleans, I developed an appreciation for the
+    urgency of climate change, which led me to pursue a B.S. in Environmental Earth Science
+    with a minor in Marine Biology at Tulane University. I feel fortunate to be here in Cambridge,
+    and to have discovered my passion for using clues from the past to better understand our planet’s future.
+    When I’m not thinking about MIS11, you can usually find me watching an episode of Parts Unknown,
+    listening to Ethiopian jazz, or spending time outdoors with friends.
+
 
 - name: Sizhe Chen
   degrees:
@@ -124,6 +150,35 @@
     response. When I am not travelling, I enjoy reading, cooking and exercising.
 
 
+- name: Olivia Reeves
+  degrees: # MRes
+  image: people/olivia.jpg
+  altimage:
+  position: PhD student
+  email: or324 (at) cam.ac.uk
+  twitter:
+  website: # https://www.geog.cam.ac.uk/people/reeves/
+  github:
+  scholar: xqsqgD8AAAAJ&hl
+  orcid:
+  description:  |
+    I am a PhD student based both at the British Antarctic Survey and the Department of Geography,
+    University of Cambridge. My research focuses on past interglacial periods and what they reveal
+    about how global and regional systems respond to warmer temperatures due to stronger orbital forcing.
+    By studying these analogues, the aim is to better understand possible trajectories of future
+    climate change and the rates of potential change. More specifically, my work investigates Marine
+    Isotope Stage 31 (MIS 31), a super-interglacial of the early Pleistocene that was exceptionally
+    warm relative to other interglacials. I am particularly interested in the integration of proxy
+    data and climate models to assess model performance and improve the accuracy of climate model
+    predictions for future change.
+
+    My studies began at Birkbeck College where I completed a BSc in Planetary Science with Astronomy,
+    followed by an MSc in Climate Change from UCL, where my research on the rates of global and Arctic
+    climatic changes during the CMIP6 lig127k simulations provided justification for the CMIP7 FastTrack
+    abrupt-127k protocol. Outside academia, I enjoy travelling, reading, spending time with my cat,
+    and attending theatre productions whenever I can.
+
+
 - name: Peisong Zheng
   degrees: # MRes
   image: people/peisong2.png
@@ -153,57 +208,30 @@
     completed an MSc in Geography and a BSc in Geophysics at the China University of Geosciences.
     My PhD is funded by a UKRI studentship.
 
-- name: Yu Huang
-  degrees: # MRes
-  image: people/yu.jpg
-  altimage:
-  position: MPhil student
-  email: yh475 (at) cam.ac.uk
-  twitter:
-  website:
-  github:
-  scholar:
-  orcid:
-  description:  |
-    I engage with palaeoclimate questions as a lens through which to interrogate
-    the human past and our potential future. I enjoy thinking across marine, terrestrial
-    and ice core archives. During my undergraduate studies in Geography, I worked on a
-    'sortable silt' flow speed reconstruction of the Norwegian Sea during the last
-    deglaciation. I was then awarded an EFG scholarship (King's College) to pursue
-    an MPhil in [*Quantitative Climate and Environmental Science*](https://qces.uk/){:target="\_blank"}, where I am researching
-    Asian monsoon dynamics during the last interglacial period using isotope-enabled Earth
-    System Models. My PhD research (starting 2025) will use Antarctic and Greenland ice
-    cores to constrain the interglacial evolution of methane, exploring the role of
-    ancient agriculture in changing global environments.
-
-    In my free time, I paint watercolour landscapes of the places I visit during fieldwork.
-
-- name: Emily Kraus
-  degrees:
-  image: people/emily2.jpg
-  altimage:
-  position: MRes student
-  email: enk21 (at) cam.ac.uk
-  twitter:
-  website:
-  github:
-  scholar: w8B65b4AAAAJ&hl
-  orcid:
-  description:  |
-    I am an MRes student and [**Gates Cambridge**](https://www.gatescambridge.org/){:target="\_blank"} scholar
-    in the Department of Geography here at Cambridge, where my research
-    focuses on reconstructing and understanding the Marine Isotope Stage 11 (MIS11) "super-interglacial"
-    using climate proxies and models. More broadly, however, I am interested in understanding the fundamental
-    differences between past periods of global-scale warming, and in reducing model uncertainties in predicting
-    the impacts of anthropogenic climate change using evidence from the past.
-
-    Growing up just outside New Orleans, I developed an appreciation for the
-    urgency of climate change, which led me to pursue a B.S. in Environmental Earth Science
-    with a minor in Marine Biology at Tulane University. I feel fortunate to be here in Cambridge,
-    and to have discovered my passion for using clues from the past to better understand our planet’s future.
-    When I’m not thinking about MIS11, you can usually find me watching an episode of Parts Unknown,
-    listening to Ethiopian jazz, or spending time outdoors with friends.
-
+# - name: Yu Huang
+#   degrees: # MRes
+#   image: people/yu.jpg
+#   altimage:
+#   position: MPhil student
+#   email: yh475 (at) cam.ac.uk
+#   twitter:
+#   website:
+#   github:
+#   scholar:
+#   orcid:
+#   description:  |
+#     I engage with palaeoclimate questions as a lens through which to interrogate
+#     the human past and our potential future. I enjoy thinking across marine, terrestrial
+#     and ice core archives. During my undergraduate studies in Geography, I worked on a
+#     'sortable silt' flow speed reconstruction of the Norwegian Sea during the last
+#     deglaciation. I was then awarded an EFG scholarship (King's College) to pursue
+#     an MPhil in [*Quantitative Climate and Environmental Science*](https://qces.uk/){:target="\_blank"}, where I am researching
+#     Asian monsoon dynamics during the last interglacial period using isotope-enabled Earth
+#     System Models. My PhD research (starting 2025) will use Antarctic and Greenland ice
+#     cores to constrain the interglacial evolution of methane, exploring the role of
+#     ancient agriculture in changing global environments.
+#
+#     In my free time, I paint watercolour landscapes of the places I visit during fieldwork.
 
 - name: Fiona Fang
   degrees:
