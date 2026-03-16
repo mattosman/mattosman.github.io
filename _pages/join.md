@@ -45,9 +45,11 @@ Prospective students are encouraged to get in contact well in advance of these d
 
 ## Postdocs
 
-**(October 2025) INTERESTED POSTDOCS:** Please check back soon for a funding update.
+**_March 2026_**: Looking for a 3-year postdoc at the intersection of climate science and statistics? The C3PO lab at Cambridge is hiring! <b>[Details here](https://www.cam.ac.uk/jobs/postdoctoral-research-associate-in-paleoclimate-statistics-and-dynamics-fixed-term-lc48712){:target="\_blank"}</b>.
 
-We currently do not have any advertised positions (though please check back in the coming months).  However, we are always happy to discuss postdoctoral opportunities with motivated researchers who have strong backgrounds in climate science, statistical / data science, or related fields.
+<!-- We currently do not have any advertised positions (though please check back in the coming months).  However, we are always happy to discuss postdoctoral opportunities with motivated researchers who have strong backgrounds in climate science, statistical / data science, or related fields. -->
+
+We are always happy to discuss postdoctoral opportunities with motivated researchers who have strong backgrounds in climate science, statistical / data science, or related fields.
 
 Potential researchers are especially encouraged to propose project ideas that may be formulated as external fellowship applications (e.g., NERC, Royal Society, Leverhulme, Marie Curie -- see below). Cambridge colleges also individually offer various funding opportunities; these can be rather opaque but some general information can be found [**here**](https://www.esc.cam.ac.uk/fellowship-schemes).
 
