@@ -48,31 +48,56 @@
     Supérieure – PSL before joining the University of Cambridge in 2024.
 
 
-- name: Emily Kraus
-  degrees:
-  image: people/emily2.jpg
+- name: Jiajia Su
+  degrees: PhD
+  image: people/jiajia.jpg
   altimage:
-  position: Research Assistant
-  email: enk21 (at) cam.ac.uk
+  position: Research Associate
+  email: js3125 (at) cam.ac.uk
   twitter:
-  website:
-  github:
-  scholar: w8B65b4AAAAJ&hl
+  website: https://www.geog.cam.ac.uk/people/su/
+  github: https://github.com/JJiaSu
+  scholar: knoDZYIAAAAJ
   orcid:
   description:  |
-    I am a Research Assistant and recent [**Gates Cambridge**](https://www.gatescambridge.org/){:target="\_blank"} alumni
-    working in the Department of Geography here at Cambridge, where my research
-    focuses on reconstructing and understanding the Marine Isotope Stage 11 (MIS11) "super-interglacial"
-    using climate proxies and models. More broadly, however, I am interested in understanding the fundamental
-    differences between past periods of global-scale warming, and in reducing model uncertainties in predicting
-    the impacts of anthropogenic climate change using evidence from the past.
+    I am a Research Associate in the Department of Geography at the University of Cambridge.
+    My current research focuses on reconstructing past climate variability by integrating
+    proxy records with climate model simulations through data assimilation techniques.
+    Through this work, I aim to better understand how Earth’s climate system has changed
+    through time and the mechanisms underlying these changes.
 
-    Growing up just outside New Orleans, I developed an appreciation for the
-    urgency of climate change, which led me to pursue a B.S. in Environmental Earth Science
-    with a minor in Marine Biology at Tulane University. I feel fortunate to be here in Cambridge,
-    and to have discovered my passion for using clues from the past to better understand our planet’s future.
-    When I’m not thinking about MIS11, you can usually find me watching an episode of Parts Unknown,
-    listening to Ethiopian jazz, or spending time outdoors with friends.
+    Before coming to Cambridge, I received my PhD from Beijing Normal University in China,
+    where my research focused on hydroclimate extremes, particularly the detection, attribution,
+    and projection of extreme precipitation. When I’m not working on climate data, I enjoy keeping things tidy,
+    watching movies, and spending time with friends. I also enjoy challenging myself and trying
+    new things, and if time allows, I’d love to keep improving my snowboarding and take on new challenges.
+
+
+# - name: Emily Kraus
+#   degrees:
+#   image: people/emily2.jpg
+#   altimage:
+#   position: Research Assistant
+#   email: enk21 (at) cam.ac.uk
+#   twitter:
+#   website:
+#   github:
+#   scholar: w8B65b4AAAAJ&hl
+#   orcid:
+#   description:  |
+#     I am a Research Assistant and recent [**Gates Cambridge**](https://www.gatescambridge.org/){:target="\_blank"} alumni
+#     working in the Department of Geography here at Cambridge, where my research
+#     focuses on reconstructing and understanding the Marine Isotope Stage 11 (MIS11) "super-interglacial"
+#     using climate proxies and models. More broadly, however, I am interested in understanding the fundamental
+#     differences between past periods of global-scale warming, and in reducing model uncertainties in predicting
+#     the impacts of anthropogenic climate change using evidence from the past.
+#
+#     Growing up just outside New Orleans, I developed an appreciation for the
+#     urgency of climate change, which led me to pursue a B.S. in Environmental Earth Science
+#     with a minor in Marine Biology at Tulane University. I feel fortunate to be here in Cambridge,
+#     and to have discovered my passion for using clues from the past to better understand our planet’s future.
+#     When I’m not thinking about MIS11, you can usually find me watching an episode of Parts Unknown,
+#     listening to Ethiopian jazz, or spending time outdoors with friends.
 
 
 - name: Sizhe Chen

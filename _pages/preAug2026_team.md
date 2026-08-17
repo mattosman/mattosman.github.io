@@ -67,57 +67,37 @@ nav_order: 7
 
 <div style="margin-top: 1.5em; margin-bottom: 1.2em;">
   <p>
+    <strong>Tom Woolley</strong><br>
+    <em>previously:</em> Cambridge undergrad <br>
+    <em>now:</em> MPhil in Polar Studies, Sheffield University <br>
+  </p>
+</div>
+
+<div style="margin-top: 1.5em; margin-bottom: 1.2em;">
+  <p>
     <strong>Marco Aquino-López (honourary!)</strong><br>
-    <em>previously:</em> Research Associate<br>
-    <em>now:</em> Researcher and Lecturer, CIMAT<br>
-    <i class="fa fa-globe"></i> <a href="https://www.cimat.mx/" target="_blank">https://www.cimat.mx/</a>
-  </p>
-</div>
-
-<div style="margin-top: 1.5em; margin-bottom: 1.2em;">
-  <p>
-    <strong>Crystal Fu</strong><br>
-    <em>previously:</em> Cambridge MPhil student<br>
-    <em>now:</em> SPRI/Geography PhD student, Cambridge
-  </p>
-</div>
-
-<div style="margin-top: 1.5em; margin-bottom: 1.2em;">
-  <p>
-    <strong>Annabelle Hall</strong><br>
-    <em>previously:</em> Cambridge MPhil student
+    <em>previously:</em> Research Associate <br>
+    <em>now:</em> Researcher and Lecture, CIMAT <br>
+    <i class="fa fa-globe"></i>
+    <a href="https://www.cimat.mx/" target="_blank">
+      https://www.cimat.mx/
+    </a>
   </p>
 </div>
 
 <div style="margin-top: 1.5em; margin-bottom: 1.2em;">
   <p>
     <strong>Yu Huang</strong><br>
-    <em>previously:</em> Cambridge QCES MPhil student<br>
-    <em>now:</em> Gates Cambridge PhD student, BAS & Cambridge
+    <em>previously:</em> Cambridge QCES MPhil <br>
+    <em>now:</em> Gates Cambridge PhD student, BAS & Cambridge <br>
   </p>
 </div>
 
 <div style="margin-top: 1.5em; margin-bottom: 1.2em;">
   <p>
     <strong>Emily Kraus</strong><br>
-    <em>previously:</em> Gates Cambridge MPhil student and C3PO Research Assistant<br>
-    <em>now:</em> PhD student, University of Texas at Austin
-  </p>
-</div>
-
-<div style="margin-top: 1.5em; margin-bottom: 1.2em;">
-  <p>
-    <strong>Alfredo Salvador Bistrain Montiel</strong><br>
-    <em>previously:</em> MSc student at CIMAT<br>
-    <em>now:</em> Data Analyst at Amazon
-  </p>
-</div>
-
-<div style="margin-top: 1.5em; margin-bottom: 1.2em;">
-  <p>
-    <strong>Tom Woolley</strong><br>
-    <em>previously:</em> Cambridge undergrad<br>
-    <em>now:</em> MPhil in Polar Studies, Sheffield University
+    <em>previously:</em> Gates Cambridge MPhil student <br>
+    <em>now:</em> C3PO Research Assistant! <br>
   </p>
 </div>
 
